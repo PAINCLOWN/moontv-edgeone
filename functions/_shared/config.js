@@ -22,8 +22,6 @@ export const API_CONFIG = {
 
 // API站点配置 - 从 config.json 复制
 export const API_SITES = {
-  "cache_time": 7200,
-  "api_site": {
     "dyttzy": {
       "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
       "name": "电影天堂资源",
@@ -304,7 +302,6 @@ export const API_SITES = {
       "api": "https://www.kuaiyunzy.com/api.php/provide/vod/",
       "name": "快云|点播"
     }
-  }
 };
 
 
